@@ -216,7 +216,7 @@
         <!--<xi:include href="playback_record_audio_policy_configuration.xml"/>-->
 
         <!-- Bluetooth Audio HAL -->
-        <xi:include href="bluetooth_hearing_aid_audio_policy_configuration.xml"/>
+        <xi:include href="bluetooth_qti_audio_policy_configuration.xml"/>
 
     </modules>
 
